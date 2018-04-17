@@ -1,2 +1,3 @@
-# hello-world
-Dopiero się uczę
+# Witaj świecie
+cześć wszystkim
+dopiero zaczynam przygodę z programowaniem 
